@@ -1,10 +1,7 @@
-#### Course assignments - homeworks, demos, projects
+## C# Programming
 
-------------
-## [C# Programming]()
+*  [CSharp Fundamentals Contests]()
 
-*  CSharp Fundamentals Contests (C# 1)
+## Python Programming
 
-## [Python Programming]()
-
-* Programming Basics with Python
+* [Programming Basics with Python]()
