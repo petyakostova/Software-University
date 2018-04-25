@@ -1,3 +1,18 @@
+'''
+Write a Python console program that prints a triangle of 55 asterisks located in 10 rows:
+*
+**
+***
+****
+*****
+******
+*******
+********
+*********
+**********
+
+'''
+
 for i in range(1,11):
     print('*'*i)
 
